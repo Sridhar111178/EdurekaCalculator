@@ -4,4 +4,11 @@ interface ICalculator
   int Subtraction();
   int Multiplication();
   int Division();
+
+
 }
+
+Public int Addition()
+{
+  x = a+b;
+  }

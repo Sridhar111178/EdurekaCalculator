@@ -1,0 +1,7 @@
+interface ICalculator
+{
+  int Addition();
+  int Subtraction();
+  int Multiplication();
+  int Division();
+}
